@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "no_rotation"
-version = "0.0.1"
+version = "1.0.0"
 name = "Disable Object Rotation"
 tagline = "This extension enforces a (0, 0, 0) euler rotation on all objects"
 maintainer = "ChaoticByte <contact@chaoticbyte.net>"
